@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="[YOUR_BANNER_LINK](https://github.com/ahmedhussien96/ahmedhussien96/commit/18d31e192a047f1197cdf593fac9d8e0c84e190a)" width="100%">
+
+</p>
+
 # Hi, I'm Ahmed Hussien 👋
 
 ### Data Analyst | Machine Learning Engineer
