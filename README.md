@@ -6,7 +6,6 @@
 
 Data Analyst | Machine Learning Engineer
 
-Turning data into intelligent solutions with analytics and machine learning.
 
 Computer Science graduate passionate about turning data into intelligent solutions through analytics, machine learning, and deep learning.
 
