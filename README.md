@@ -1,7 +1,5 @@
 <p align="center">
-
-<img src="[YOUR_BANNER_LINK](https://github.com/ahmedhussien96/ahmedhussien96/commit/18d31e192a047f1197cdf593fac9d8e0c84e190a)" width="100%">
-
+  <img src="https://raw.githubusercontent.com/ahmedhussien96/ahmedhussien96/main/images/banner.png" width="100%" alt="GitHub Banner">
 </p>
 
 # Hi, I'm Ahmed Hussien 👋
