@@ -91,6 +91,6 @@ Python + SQL + Power BI
 
 # 📫 Connect
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/ahmed-hussien-mle/)
 
 📧 ahmed.hussien.mle@gmail.com
